@@ -1,7 +1,6 @@
-
 # Edtech
 
-API collection for Edtech application
+API collection for Edtech application, Edtech is basically an edu tech platform
 
 ## Tech Stack
 
@@ -33,7 +32,6 @@ Start the server
 ```bash
   go run cmd/api/main.go
 ```
-
 
 
 ## Database Documentation
